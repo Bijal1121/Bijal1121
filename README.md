@@ -83,7 +83,7 @@
 
 ### 🏅 Certifications
 
-- 📊 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj) — *Coursera*
+- 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/a6e428cf8d0393e23a5d5a0a8017b2a0) — *Coursera*
   <br>
   <a href="https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj" target="_blank">
     <img src="./google-data-analytics-badge.png" width="120" alt="Google Data Analytics Badge" />
