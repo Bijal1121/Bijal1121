@@ -73,14 +73,6 @@
 
 ---
 
-### 📚 Languages I Use Most
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal1121&layout=compact&theme=radical" width="50%"/>
-</p>
-
----
-
 ### 📂 Featured Projects
 
 - [🍽️ Zomato Restaurant Analysis and Prediction](https://github.com/Bijal1121/Zomato-Restaurant-Analysis-and-Prediction)
