@@ -83,11 +83,25 @@
 
 ### 🏅 Certifications
 
+- 📊 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj)
+  <br>
+  <a href="https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2894490a-05bd-4d9a-b059-599b9977c78a/image.png" width="120" alt="Google Data Analytics Certificate Badge"/>
+  </a>
 - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/008fe80a25109c14a4a7f9d117390ffc) — *Coursera*
 - 📜 [Coauthored Research Paper](https://ijsrem.com/download/sanskrit-voice-to-text/) — *“Sanskrit Voice to Text” published in IJSREM*
 - 🧠 Finalist at **Smart India Hackathon 2021** — *Built a Sanskrit ASR System*
 
 ---
+
+### 📚 Publications
+
+- 📝 [“Sanskrit Voice to Text”](https://ijsrem.com/download/sanskrit-voice-to-text/)  
+  *Published in the International Journal of Scientific Research in Engineering and Management (IJSREM)*  
+  *Coauthored a technical paper on developing an Automatic Speech Recognition (ASR) system for Sanskrit language transcription.*
+
+---
+
 
 ### 🌐 Connect With Me
 
