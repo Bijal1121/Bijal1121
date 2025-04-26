@@ -83,12 +83,11 @@
 
 ### 🏅 Certifications
 
-- 📊 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj)
+- 📊 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj) — *Coursera*
   <br>
   <a href="https://www.credly.com/badges/d8824d5b-97af-4047-bf86-dcdec38655f9/linked_in?t=sqeqdj" target="_blank">
     <img src="./google-data-analytics-badge.png" width="120" alt="Google Data Analytics Badge" />
   </a>
-- 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/008fe80a25109c14a4a7f9d117390ffc) — *Coursera*
 - 📜 [Coauthored Research Paper](https://ijsrem.com/download/sanskrit-voice-to-text/) — *“Sanskrit Voice to Text” published in IJSREM*
 - 🧠 Finalist at **Smart India Hackathon 2021** — *Built a Sanskrit ASR System*
 
