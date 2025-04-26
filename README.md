@@ -37,6 +37,14 @@
 
 ---
 
+### 🏅 Certifications
+
+- 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/008fe80a25109c14a4a7f9d117390ffc) — *Coursera*
+- 📜 [Coauthored Research Paper](https://ijsrem.com/download/sanskrit-voice-to-text/) — *“Sanskrit Voice to Text” published in IJSREM*
+- 🧠 Finalist at **Smart India Hackathon 2021** — *Built a Sanskrit ASR System*
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
