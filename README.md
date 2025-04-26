@@ -36,6 +36,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bijal1121&theme=radical" width="45%"/>
 </p>
 
+### 📚 Languages I Use Most
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal1121&layout=compact&theme=radical)
+
 ---
 
 ### 📂 Featured Projects
