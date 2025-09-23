@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Bijal Bharadva!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
 
@@ -26,10 +26,19 @@
 
 ---
 
-## 📚 Publications
-- CURe: Conservative Unlearning via Gradient-Based Influence Reweighting for Offline RL — *ICLR 2026 (Under Review)*  
-- PetaGAIL++: Utility Optimized Private Trajectory Generation — *ICLR 2026 (Under Review)*  
-- Sanskrit Voice To Text — *IJSREM 2023*  
+## 📰 Publications
+
+- [**CURe: Conservative Unlearning via Gradient-Based Influence Reweighting for Offline RL**](#)  
+  *ICLR 2026 (Under Review)*  
+  🔹 Extends **CQL** with gradient-based influence reweighting → achieves selective forgetting without retraining.  
+
+- [**PetaGAIL++: Utility Optimized Private Trajectory Generation with Imitation Learning**](#)  
+  *ICLR 2026 (Under Review)*  
+  🔹 Proposes a privacy-preserving framework for trajectory generation, improving both **utility & privacy guarantees**.  
+
+- [**Sanskrit Voice To Text**](#)  
+  *IJSREM 2023*  
+  🔹 Created a **78 hr Sanskrit speech dataset**, trained CNN–RNN + CTC loss → **92% transcription accuracy**.   
 
 ---
 
