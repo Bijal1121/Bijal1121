@@ -1,4 +1,82 @@
-<h1 align="center">Hi 👋, I'm Bijal Bharadva</h1>
+# 👋 Hey, I'm [Your Name]
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+
+🚀 Aspiring **Machine Learning Engineer | Data Scientist | AI Researcher**  
+🎓 MS in Computer Science @ **San Diego State University**  
+💡 Passionate about **LLMs, Reinforcement Learning, and Generative AI**  
+
+---
+
+## 🔥 About Me
+- 🤖 Experienced with **NLP, RL, and Deep Learning research** (ICLR submissions in-progress 🚀).  
+- 🛠️ Hands-on with **end-to-end ML pipelines**: data → model → deployment.  
+- ☁️ Comfortable with **AWS, GCP, and MLOps tools** (MLflow, Docker, Airflow).  
+- 📊 Background in **data analysis, model optimization, and scalable AI systems**.  
+
+---
+
+## 💼 Work Experience
+- **Data Science Intern @ Times of India**  
+  Fine-tuned BERT on 100K+ queries → 📈 92% satisfaction | 🚀 Deployed AI assistant on AWS.  
+- **ML Intern @ 1stop**  
+  Built **sentiment models** (87% acc) + **intent classification** with FLAN-T5 (↑15% acc).  
+- **ML Intern @ Frinks AI**  
+  Improved YOLOv4 detection by 12% with custom dataset annotation.  
+
+---
+
+## 📚 Publications
+- CURe: Conservative Unlearning via Gradient-Based Influence Reweighting for Offline RL — *ICLR 2026 (Under Review)*  
+- PetaGAIL++: Utility Optimized Private Trajectory Generation — *ICLR 2026 (Under Review)*  
+- Sanskrit Voice To Text — *IJSREM 2023*  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white" /> 
+</p>
+
+---
+
+## 🚀 Featured Projects
+- [**CURe (Selective Forgetting in RL)**](#) – Extending CQL with influence reweighting.  
+- [**Sanskrit Voice to Text**](#) – 92% transcription accuracy on 78 hrs of audio.  
+- [**AI Mental Health Companion**](#) – Empathetic chatbot with RoBERTa + GPT-4o + FAISS.  
+- [**Trajectory GANs & SeqGANs**](#) – Mobility modeling with GeoLife dataset (PateGAIL benchmarks).  
+- [**More Projects →**](https://github.com/your-username?tab=repositories)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="170"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="170"/> 
+</p>
+
+---
+
+## 🌱 Beyond Work
+- 🧑‍🏫 Mentored **150+ students** in placements as T&P Coordinator.  
+- 📜 Google Data Analytics Professional Certificate.  
+- ⚡ Always exploring **Generative AI, RLHF, and ML Unlearning research**.  
+
+---
+
+📫 **Let’s Connect** → [LinkedIn](#) | [Google Scholar](#) | [Email](mailto:your-email)
+
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Bijal Bharadva</h1>
 <h3 align="center">AI/ML Enthusiast | Data Analyst | Dashboard Developer | Research Contributor</h3>
 
 ---
@@ -77,4 +155,4 @@
 
 ---
 
-> *“Turning raw data into real-world impact through intelligent systems and visual storytelling.”*
+> *“Turning raw data into real-world impact through intelligent systems and visual storytelling.”* -->
