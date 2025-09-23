@@ -43,16 +43,52 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white" /> 
-</p>
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+### 🤖 Machine Learning / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-15496B?logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAE1A?logo=huggingface&logoColor=white)
+
+### ⚙️ MLOps & Systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white)
+
+### ☁️ Data & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+
+### 📊 Visualization & Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=black)
+
 
 ---
 
