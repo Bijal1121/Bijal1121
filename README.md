@@ -16,21 +16,7 @@
 
 ---
 
-## 💼 Work Experience
-- **Data Science Intern @ Times of India**  
-  Fine-tuned BERT on 100K+ queries → 📈 92% satisfaction | 🚀 Deployed AI assistant on AWS.  
-- **ML Intern @ 1stop**  
-  Built **sentiment models** (87% acc) + **intent classification** with FLAN-T5 (↑15% acc).  
-- **ML Intern @ Frinks AI**  
-  Improved YOLOv4 detection by 12% with custom dataset annotation.  
-
----
-
 ## 📰 Publications
-
-- [**CURe: Conservative Unlearning via Gradient-Based Influence Reweighting for Offline RL**](#)  
-  *ICLR 2026 (Under Review)*  
-  🔹 Extends **CQL** with gradient-based influence reweighting → achieves selective forgetting without retraining.  
 
 - [**PetaGAIL++: Utility Optimized Private Trajectory Generation with Imitation Learning**](#)  
   *ICLR 2026 (Under Review)*  
@@ -58,13 +44,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-15496B?logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAE1A?logo=huggingface&logoColor=white)
-
-### ⚙️ MLOps & Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white)
 
 ### ☁️ Data & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -101,14 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="170"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="170"/> 
-</p>
-
----
-
 ## 🌱 Beyond Work
 - 🧑‍🏫 Mentored **150+ students** in placements as T&P Coordinator.  
 - 📜 Google Data Analytics Professional Certificate.  
@@ -116,7 +87,7 @@
 
 ---
 
-📫 **Let’s Connect** → [LinkedIn](#) | [Google Scholar](#) | [Email](mailto:your-email)
+📫 **Let’s Connect** → [LinkedIn](https://www.linkedin.com/in/bijal-bharadva/) | [Email](mailto:bijal.bharadva@gmail.com)
 
 
 
