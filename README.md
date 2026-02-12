@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
 
-🚀 Aspiring **Machine Learning Engineer | Data Scientist | AI Researcher**  
+🚀 Aspiring **Machine Learning Engineer | Data Scientist | ML Researcher**  
 🎓 MS in Computer Science @ **San Diego State University**  
-💡 Passionate about **LLMs, Reinforcement Learning, and Generative AI**  
+💡 Passionate about **Machine Learning, Reinforcement Learning, Transformer, Vision Language Models, Gen AI**  
 
 ---
 
@@ -19,7 +19,7 @@
 ## 📰 Publications
 
 - [**PetaGAIL++: Utility Optimized Private Trajectory Generation with Imitation Learning**](#)  
-  *ICLR 2026 (Under Review)*  
+  *ICLR 2026 (Accepted)*  
   🔹 Proposes a privacy-preserving framework for trajectory generation, improving both **utility & privacy guarantees**.  
 
 - [**Sanskrit Voice To Text**](#)  
