@@ -110,11 +110,9 @@ WER reduced from 44% → 2%.
 
 [![Email](https://img.shields.io/badge/Email-bbharadva1752@sdsu.edu-D14836?logo=gmail&logoColor=white)](mailto:bbharadva1752@sdsu.edu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijal_Bharadva-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijal_Bharadva-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bijal-bharadva/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-BijalBharadva-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-BijalBharadva-181717?logo=github&logoColor=white)(https://github.com/Bijal1121/)
 
 ---
 
