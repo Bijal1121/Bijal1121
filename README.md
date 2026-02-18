@@ -36,8 +36,7 @@ Models must operate beyond closed-set assumptions.
 
 ## CURe — Conservative Unlearning in Offline RL
 
-<img src="https://img.shields.io/badge/Gradient_Influence-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/CQL-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradient_Influence-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/CQL-4B8BBE?style=flat-square"/>
 
 Learning systems accumulate experience.  
 Some trajectories must be removed.
@@ -56,8 +55,7 @@ Efficient unlearning with stable returns.
 
 ## PateGAIL++ — Privacy-Aware Imitation Learning
 
-<img src="https://img.shields.io/badge/Differential_Privacy-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Utility_Preservation-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Differential_Privacy-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Utility_Preservation-4B8BBE?style=flat-square"/>
 
 Learning from behavioral trajectories under strict privacy guarantees.
 
