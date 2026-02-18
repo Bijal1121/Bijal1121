@@ -10,8 +10,7 @@
 </p>
 
 ---
-
-# 🧠 Current Research
+# Current Research
 
 <p align="center">
 <b>Adaptive Learning Systems Under Distributional Shift</b>
@@ -19,73 +18,76 @@
 
 ---
 
-## Vision-Language Models  
+## <img src="https://img.icons8.com/ios-filled/20/000000/artificial-intelligence.png"/> Vision-Language Models  
 ### Open-World & Continual Learning
 
-Models deployed in reality do not operate in closed sets.
+<img src="https://img.shields.io/badge/Focus-OOD_Detection-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Setting-Open_World-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Paradigm-Class_Incremental-black?style=flat-square"/>
 
-New classes appear.  
-Unknown samples exist.  
-Representations evolve over time.
+Models deployed in real environments must handle evolving tasks and unknown classes.
 
-**Research Question**
+**Core Question**
 
-> How does OOD detection learned in early tasks  
-> influence OOD detection in later tasks?
+> How does OOD detection learned in earlier tasks  
+> influence OOD detection performance in later tasks?
 
-**Current Work**
+**Current Investigation**
 - OOD boundary drift across task streams  
 - Calibration stability under incremental updates  
 - Representation geometry evolution  
-- Measuring inter-task knowledge transfer  
-- Positive vs negative uncertainty transfer  
+- Formalizing inter-task knowledge transfer  
+- Quantifying positive vs negative uncertainty transfer  
 
 ---
 
-## CURe  
+## <img src="https://img.icons8.com/ios-filled/20/000000/decision.png"/> CURe  
 ### Conservative Unlearning in Offline RL
 
-Learning systems accumulate experience.  
-Some of that experience must be removed.
+<img src="https://img.shields.io/badge/Method-Gradient_Influence-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithm-CQL-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-Stable_Unlearning-black?style=flat-square"/>
 
-**Research Question**
+Experience accumulates in RL systems.  
+Some trajectories must be removed.
+
+**Core Question**
 
 > Can trajectory influence be removed  
-> without full retraining?
+> without retraining the entire policy?
 
-**Method**
-- Cosine similarity of TD gradients (retain vs forget)  
+**Approach**
+- Cosine similarity between forget and retain TD gradients  
 - Influence-aware soft gating  
 - Conservative Q regularization  
 
-Efficient unlearning. Stable returns.
+Result: Efficient unlearning with stable returns.
 
 ---
 
-## PateGAIL++  
+## <img src="https://img.icons8.com/ios-filled/20/000000/privacy.png"/> PateGAIL++
+
 ### Privacy-Aware Imitation Learning
 
-Behavioral data enables learning.  
-Privacy constraints restrict it.
+<img src="https://img.shields.io/badge/Constraint-Differential_Privacy-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Domain-Mobility_Modeling-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Objective-Utility_Preservation-black?style=flat-square"/>
 
-**Research Question**
+Learning from behavioral trajectories under strict privacy guarantees.
 
-> How much utility can survive  
-> under strict privacy guarantees?
+**Central Question**
 
-- Utility–privacy trade-off modeling  
-- Mobility trajectory generation  
-- Policy robustness under DP budgets  
+> How much policy utility can be preserved  
+> under strong privacy constraints?
 
-ICLR 2026 — Accepted
+(ICLR 2026 — Accepted)
 
 ---
 
 <p align="center">
-<b>Theme:</b> Stability under change.  
-Controlled adaptation over time.
+<b>Unifying Theme</b><br>
+Stability · Uncertainty · Controlled Adaptation
 </p>
-
 
 # ⚙ Technical Stack
 
