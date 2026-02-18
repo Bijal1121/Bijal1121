@@ -102,3 +102,10 @@ ICLR 2026 — Accepted
 <p align="center">
   <i>Stability. Uncertainty. Controlled Adaptation.</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=4B8BBE&center=true&vCenter=true&width=500&lines=Stability+under+change." />
+</p>
+
