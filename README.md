@@ -19,8 +19,7 @@
 
 ## Vision-Language Models — Open-World Continual Learning
 
-<img src="https://img.shields.io/badge/OOD_Detection-4B8BBE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Class_Incremental-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOD_Detection-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Class_Incremental-4B8BBE?style=flat-square"/>
 
 Models must operate beyond closed-set assumptions.
 
