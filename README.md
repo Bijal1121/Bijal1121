@@ -100,8 +100,11 @@ ICLR 2026 — Accepted
 ---
 
 <p align="center">
-  <i>Stability. Uncertainty. Controlled Adaptation.</i>
+  <sub>
+    Bijal Bharadva · Machine Learning Research · CA, USA
+  </sub>
 </p>
+
 
 ---
 
