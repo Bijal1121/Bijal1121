@@ -26,8 +26,7 @@ Models must operate beyond closed-set assumptions.
 
 **Core Question**
 
-> How does OOD detection learned in earlier tasks  
-> influence OOD detection in later tasks?
+> How does OOD detection learned in earlier tasks influence OOD detection in later tasks?
 
 - OOD boundary drift across task streams  
 - Calibration stability over incremental updates  
@@ -46,8 +45,7 @@ Some trajectories must be removed.
 
 **Core Question**
 
-> Can trajectory influence be removed  
-> without retraining the full policy?
+> Can trajectory influence be removed without retraining the full policy?
 
 - TD-gradient cosine similarity  
 - Influence-aware soft gating  
@@ -66,8 +64,7 @@ Learning from behavioral trajectories under strict privacy guarantees.
 
 **Central Question**
 
-> How much policy utility survives  
-> under strong privacy constraints?
+> How much policy utility survives under strong privacy constraints?
 
 ICLR 2026 — Accepted
 
@@ -78,7 +75,7 @@ ICLR 2026 — Accepted
 <p align="center">
 <b>Core Tools</b><br><br>
 
-<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-4B8BBE?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Offline_RL-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Continual_Learning-4B8BBE?style=flat-square"/>
