@@ -11,29 +11,81 @@
 
 ---
 
-## 🧠 Current Research Direction
-
-I work on:
-
-- Influence-based trajectory removal in Offline RL  
-- Gradient similarity modeling between retain and forget sets  
-- Stability–plasticity trade-offs in CQL  
-- Efficient alternatives to full retraining  
-
----
-
-## 📊 GitHub Activity
+# 🧠 Current Research
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijal1121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal1121&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bijal1121&theme=tokyonight&hide_border=true"/>
+<b>Adaptive Learning Systems Under Distributional Shift</b>
 </p>
 
 ---
+
+## Vision-Language Models  
+### Open-World & Continual Learning
+
+Models deployed in reality do not operate in closed sets.
+
+New classes appear.  
+Unknown samples exist.  
+Representations evolve over time.
+
+**Research Question**
+
+> How does OOD detection learned in early tasks  
+> influence OOD detection in later tasks?
+
+**Current Work**
+- OOD boundary drift across task streams  
+- Calibration stability under incremental updates  
+- Representation geometry evolution  
+- Measuring inter-task knowledge transfer  
+- Positive vs negative uncertainty transfer  
+
+---
+
+## CURe  
+### Conservative Unlearning in Offline RL
+
+Learning systems accumulate experience.  
+Some of that experience must be removed.
+
+**Research Question**
+
+> Can trajectory influence be removed  
+> without full retraining?
+
+**Method**
+- Cosine similarity of TD gradients (retain vs forget)  
+- Influence-aware soft gating  
+- Conservative Q regularization  
+
+Efficient unlearning. Stable returns.
+
+---
+
+## PateGAIL++  
+### Privacy-Aware Imitation Learning
+
+Behavioral data enables learning.  
+Privacy constraints restrict it.
+
+**Research Question**
+
+> How much utility can survive  
+> under strict privacy guarantees?
+
+- Utility–privacy trade-off modeling  
+- Mobility trajectory generation  
+- Policy robustness under DP budgets  
+
+ICLR 2026 — Accepted
+
+---
+
+<p align="center">
+<b>Theme:</b> Stability under change.  
+Controlled adaptation over time.
+</p>
+
 
 # ⚙ Technical Stack
 
