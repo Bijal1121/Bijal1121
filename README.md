@@ -17,12 +17,10 @@
 
 ---
 
-## Vision-Language Models  
-### Open-World & Continual Learning
+## Vision-Language Models — Open-World Continual Learning
 
-<img src="https://img.shields.io/badge/OOD_Detection-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open_World-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Class_Incremental-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOD_Detection-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Class_Incremental-4B8BBE?style=flat-square"/>
 
 Models must operate beyond closed-set assumptions.
 
@@ -31,19 +29,20 @@ Models must operate beyond closed-set assumptions.
 > How does OOD detection learned in earlier tasks  
 > influence OOD detection in later tasks?
 
-- Boundary drift across tasks  
-- Calibration stability  
+- OOD boundary drift across task streams  
+- Calibration stability over incremental updates  
 - Representation geometry evolution  
 - Inter-task knowledge transfer metrics  
 
 ---
 
-## CURe  
-### Conservative Unlearning in Offline RL
+## CURe — Conservative Unlearning in Offline RL
 
-<img src="https://img.shields.io/badge/Gradient_Influence-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/CQL-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stable_Unlearning-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gradient_Influence-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/CQL-4B8BBE?style=flat-square"/>
+
+Learning systems accumulate experience.  
+Some trajectories must be removed.
 
 **Core Question**
 
@@ -52,24 +51,23 @@ Models must operate beyond closed-set assumptions.
 
 - TD-gradient cosine similarity  
 - Influence-aware soft gating  
-- Conservative regularization  
+- Conservative Q regularization  
 
 Efficient unlearning with stable returns.
 
 ---
 
-## PateGAIL++
+## PateGAIL++ — Privacy-Aware Imitation Learning
 
-### Privacy-Aware Imitation Learning
+<img src="https://img.shields.io/badge/Differential_Privacy-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Utility_Preservation-4B8BBE?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Differential_Privacy-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mobility_Modeling-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Utility_Preservation-333333?style=flat-square"/>
+Learning from behavioral trajectories under strict privacy guarantees.
 
 **Central Question**
 
 > How much policy utility survives  
-> under strict privacy guarantees?
+> under strong privacy constraints?
 
 ICLR 2026 — Accepted
 
@@ -78,6 +76,7 @@ ICLR 2026 — Accepted
 # Technical Stack
 
 <p align="center">
+<b>Core Tools</b><br><br>
 
 <img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-4B8BBE?style=flat-square&logo=pytorch&logoColor=white"/>
