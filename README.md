@@ -75,7 +75,7 @@ ICLR 2026 — Accepted
 <p align="center">
 <b>Core Tools</b><br><br>
 
-<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-4B8BBE?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Offline_RL-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Continual_Learning-4B8BBE?style=flat-square"/>
