@@ -1,120 +1,91 @@
-# BIJAL BHARADVA
-
-> Building learning systems that can forget — without collapsing.
-
-Machine Learning Engineer | Offline Reinforcement Learning | Machine Unlearning  
-MS Computer Science — San Diego State University  
-California, USA  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=4B8BBE&center=true&vCenter=true&width=800&lines=Bijal+Bharadva;Offline+Reinforcement+Learning;Machine+Unlearning+Researcher;Building+Systems+That+Forget+Responsibly" />
+</p>
 
 ---
 
-## Research Focus
-
-I work on **influence-aware unlearning in Offline Reinforcement Learning**.
-
-Key directions:
-
-- Selective trajectory removal without retraining  
-- Gradient similarity analysis between retain and forget sets  
-- Stability–plasticity balance in value-based RL  
-- Privacy-aware imitation learning  
+<p align="center">
+  <b>Machine Learning Engineer • Researcher • Systems Builder</b><br>
+  MS Computer Science — San Diego State University
+</p>
 
 ---
 
-## Selected Research
+## 🧠 Current Research Direction
 
-### CURe — Conservative Unlearning with Soft-Gating
-Gradient similarity–based trajectory filtering for offline RL.
+I work on:
 
-- Seconds-level unlearning instead of retraining
-- Benchmarked against retraining, fine-tuning, random rewards, TrajDeleter
-- Stable returns across MuJoCo tasks
-
-(ICML 2026 — Submitted)
+- Influence-based trajectory removal in Offline RL  
+- Gradient similarity modeling between retain and forget sets  
+- Stability–plasticity trade-offs in CQL  
+- Efficient alternatives to full retraining  
 
 ---
 
-### PateGAIL++
-Utility-optimized private trajectory generation using imitation learning.
+## 📊 GitHub Activity
 
-- Privacy–utility trade-off evaluation
-- Mobility trajectory modeling
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijal1121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijal1121&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-(ICLR 2026 — Accepted)
-
----
-
-## Systems Built
-
-**ProdRAG**  
-Persistent arXiv retrieval engine using FAISS + SentenceTransformers with incremental indexing and latency evaluation.
-
-**NutriScan**  
-Sequential multi-agent nutrition analysis system.  
-React Native frontend + FastAPI backend deployed on Google Cloud Run.
-
-**Sanskrit Voice-to-Text**  
-78-hour ASR dataset. CNN–RNN + CTC training.  
-WER reduced from 44% → 2%.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bijal1121&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # ⚙ Technical Stack
 
-## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL_SQL-336791?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 🧠 Machine Learning & Research
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
+### 🧠 ML & Research
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🎯 Reinforcement Learning
-![Offline RL](https://img.shields.io/badge/Offline_RL-2E8B57)
-![CQL](https://img.shields.io/badge/CQL-Conservative_Q_Learning-4B0082)
-![Imitation Learning](https://img.shields.io/badge/Imitation_Learning-708090)
-![Machine Unlearning](https://img.shields.io/badge/Machine_Unlearning-8B0000)
+### 🎯 RL & Unlearning
+![Offline RL](https://img.shields.io/badge/Offline_RL-2E8B57?style=for-the-badge)
+![CQL](https://img.shields.io/badge/CQL-4B0082?style=for-the-badge)
+![Imitation Learning](https://img.shields.io/badge/Imitation_Learning-708090?style=for-the-badge)
+![Machine Unlearning](https://img.shields.io/badge/Machine_Unlearning-8B0000?style=for-the-badge)
 
 ---
 
-## ☁ Infrastructure & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
----
-
-## ⚡ Optimization & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+### ☁ Infra & Optimization
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
 
 ---
 
 # 📫 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-bbharadva1752@sdsu.edu-D14836?logo=gmail&logoColor=white)](mailto:bbharadva1752@sdsu.edu)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijal_Bharadva-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijal-bharadva/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bijal1121-181717?logo=github&logoColor=white)](https://github.com/Bijal1121/)
-
+<p align="center">
+  <a href="mailto:bbharadva1752@sdsu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bijal-bharadva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bijal1121/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> Focused on stability, influence, and responsible learning dynamics.
+<p align="center">
+  <i>Focused on stability, influence, and responsible learning dynamics.</i>
+</p>
