@@ -101,7 +101,7 @@ ICLR 2026 — Accepted
 
 <p align="center">
   <sub>
-    Bijal Bharadva · Machine Learning Research · CA, USA
+    Bijal Bharadva · Machine Learning Researcher · CA, USA
   </sub>
 </p>
 
