@@ -95,6 +95,9 @@ ICLR 2026 — Accepted
   <a href="https://github.com/Bijal1121/">
     <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=lLfJvXQAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-333333?style=flat-square&logo=googlescholar&logoColor=white"/>
+  </a>
 </p>
 
 ---
